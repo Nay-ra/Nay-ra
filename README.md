@@ -51,7 +51,7 @@
 * ⚛️ **WISER Institute:** Completed 6-week **Quantum Computing & AI** research fellowship.
 * 💻 **Information Technology Institute (ITI):** Generative AI & Python Web Development intensive track.
 * 🎓 **Digital Egypt Pioneers Initiative (DEPI):** Microsoft Machine Learning Engineer Track.
-* 🔐 **Cybersecurity Track ** | *Creativa Innovation Hub* | Jul 2026 – Present
+* 🔐 **Cybersecurity Track** | *Creativa Innovation Hub* | Jul 2026 – Present
 
 ---
 
