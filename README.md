@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayrasaadawy)
 
-**Computer Science Undergraduate @ Benha University** (GPA: 3.66/4.0) specializing in ** AI and Machine Learning Engineering**, **Explainable AI (XAI)**, and **Retrieval-Augmented Generation (RAG)** systems. 
+**Computer Science Undergraduate @ Benha University** (GPA: 3.66/4.0) specializing in **AI and Machine Learning Engineering**, **Explainable AI (XAI)**, and **Retrieval-Augmented Generation (RAG)** systems. 
 
 ---
 
